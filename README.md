@@ -1,4 +1,4 @@
-# 🔥 INDVA - Indian Streetwear E-Commerce App
+#  INDVA - Indian Streetwear E-Commerce App
 
 <p align="center">
   <strong>Where Indian Heritage Meets Street Culture</strong>
@@ -13,11 +13,11 @@
 
 ---
 
-## 📱 About
+##  About
 
 **INDVA** is a mobile e-commerce app for an Indian streetwear brand, built with React Native and TypeScript. The app combines rich cultural motifs (mandalas, chakras, rangoli, Sanskrit) with modern urban fashion to create a unique shopping experience.
 
-## ✨ Features
+##  Features
 
 - **Product Catalog** — Browse products by category with search & filter
 - **Product Details** — Full product view with size/color selection, ratings, and reviews
@@ -27,7 +27,7 @@
 - **Accessibility** — Full accessibilityRole, accessibilityLabel, and accessibilityState support
 - **Responsive Design** — Adapts to various screen sizes
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 INDVA/
@@ -54,7 +54,7 @@ INDVA/
 └── package.json
 ```
 
-## 🎨 Brand Colors
+##  Brand Colors
 
 | Color         | Hex       | Usage                    |
 | ------------- | --------- | ------------------------ |
@@ -63,7 +63,7 @@ INDVA/
 | Turmeric Gold | `#F7D716` | Accents / Ratings        |
 | Off White     | `#F8F9FA` | Cards / Light BG         |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -91,7 +91,7 @@ npm run ios
 npm run android
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: React Native 0.73
 - **Language**: TypeScript
@@ -100,7 +100,7 @@ npm run android
 - **Animations**: React Native Reanimated
 - **Icons**: React Native Vector Icons
 
-## 📋 Roadmap
+##  Roadmap
 
 - [ ] User authentication (Firebase Auth)
 - [ ] Backend API integration (Node.js/Express)
@@ -111,7 +111,7 @@ npm run android
 - [ ] AR try-on feature
 - [ ] Internationalization (Hindi, Tamil, Telugu)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
